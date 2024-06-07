@@ -14,14 +14,6 @@
             app:argType="com.example.newapp_project.models.Article" />
     </fragment>
 
-<!--    <fragment-->
-<!--        android:id="@+id/favouritesFragment2"-->
-<!--        android:name="com.example.newapp_project.ui.fragments.FavouritesFragment"-->
-<!--        android:label="FavouritesFragment" >-->
-<!--        <action-->
-<!--            android:id="@+id/action_favouritesFragment2_to_articleFragment"-->
-<!--            app:destination="@id/articleFragment" />-->
-<!--    </fragment>-->
     <fragment
         android:id="@+id/favouritesFragment"
         android:name="com.example.newapp_project.ui.fragments.FavouritesFragment"

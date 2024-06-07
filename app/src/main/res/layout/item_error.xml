@@ -29,6 +29,7 @@
             android:layout_margin="16dp"
             android:layout_weight="1"
             android:text="Retry" />
+        
     </LinearLayout>
 
 </androidx.cardview.widget.CardView>
